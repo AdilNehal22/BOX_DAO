@@ -1,0 +1,19 @@
+Nothing to compile
+No need to generate any newer typings.
+deploying box>>>>>>>>>>>>>>>>>>>>
+deploying "Box" (tx: 0xed5752b9af4f53f6df0e595ab34d387a8927a451a3c540b5e6a3484e340bcb59)...: deployed at 0x5FbDB2315678afecb367f032d93F642f64180aa3 with 445808 gas
+ownership transfered>>>>>>>>>>>>>>>>
+deploying governor>>>>>>>>>>
+deploying "GovernorContract" (tx: 0xe693bfdd273abceeea829c8a70ca66d6454f03d810f069a796824a85a39e52fc)...: deployed at 0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0 with 4480481 gas
+deploying governance token
+deploying "GovernanceToken" (tx: 0xda97fea2452280b3c0d1e283c138257fe205b59bfd9d827682bd15c4b6800ffc)...: deployed at 0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9 with 3376648 gas
+deployed governance token to address 0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9
+Checkpoints 1
+delegated>>>>>>>>>
+deploying timelock>>>>>>>>>>>>>>>
+deploying "Timelock" (tx: 0x1bfbfb9003f95b2bdc6397dd09d81e0d42f23eaca46b78c42e6821b1442f82ca)...: deployed at 0x5FC8d32690cc91D4c39d9d3abcBD16989F875707 with 2684072 gas
+setting up roles>>>>>>>>>>>>>>>>>>
+
+
+0x6057361d000000000000000000000000000000000000000000000000000000000000004d
+0x6057361d000000000000000000000000000000000000000000000000000000000000004d
